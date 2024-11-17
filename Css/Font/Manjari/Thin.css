@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "manjari-thin";
+    src: 
+        url("../../../Font/Manjari/Manjari-Thin.eot?#iefix") format("eot") ,
+        url("../../../Font/Manjari/Manjari-Thin.eot") format("eot") ,
+        url("../../../Font/Manjari/Manjari-Thin.svg") format("svg") ,
+        url("../../../Font/Manjari/Manjari-Thin.ttf") format("ttf") ,
+        url("../../../Font/Manjari/Manjari-Thin.woff") format("woff") ,
+        url("../../../Font/Manjari/Manjari-Thin.woff2") format("woff2")
+    ;
+}

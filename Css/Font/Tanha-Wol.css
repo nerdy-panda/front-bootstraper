@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "tanha-wol";
+    src: 
+        url("../../Font/Tanha-Wol/Tanha-WOL.eot?#iefix") format("eot") ,
+        url("../../Font/Tanha-Wol/Tanha-WOL.eot") format("eot") ,
+        url("../../Font/Tanha-Wol/Tanha-WOL.ttf") format("ttf") ,
+        url("../../Font/Tanha-Wol/Tanha-WOL.woff") format("woff") ,
+        url("../../Font/Tanha-Wol/Tanha-WOL.woff2") format("woff2")
+    ;
+}

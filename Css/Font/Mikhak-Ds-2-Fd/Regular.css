@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "mikhak-ds-2-fd-regular";
+    src: 
+        url("../../../Font/Mikhak-Ds-2-Fd/Mikhak-DS2-FD-Regular.eot?#iefix") format("eot") ,
+        url("../../../Font/Mikhak-Ds-2-Fd/Mikhak-DS2-FD-Regular.eot") format("eot") ,
+        url("../../../Font/Mikhak-Ds-2-Fd/Mikhak-DS2-FD-Regular.svg") format("svg") ,
+        url("../../../Font/Mikhak-Ds-2-Fd/Mikhak-DS2-FD-Regular.ttf") format("ttf") ,
+        url("../../../Font/Mikhak-Ds-2-Fd/Mikhak-DS2-FD-Regular.woff") format("woff") ,
+        url("../../../Font/Mikhak-Ds-2-Fd/Mikhak-DS2-FD-Regular.woff2") format("woff2")
+    ;
+}

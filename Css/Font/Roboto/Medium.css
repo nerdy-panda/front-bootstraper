@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "roboto-medium";
+    src:
+        url("../../../Font/Roboto/Roboto-Medium.eot?#iefix") format("eot"),
+        url("../../../Font/Roboto/Roboto-Medium.eot") format("eot"),
+        url("../../../Font/Roboto/Roboto-Medium.svg") format("svg"),
+        url("../../../Font/Roboto/Roboto-Medium.ttf") format("ttf"),
+        url("../../../Font/Roboto/Roboto-Medium.woff") format("woff"),
+        url("../../../Font/Roboto/Roboto-Medium.woff2") format("woff2")
+
+    ;
+}

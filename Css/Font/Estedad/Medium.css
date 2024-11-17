@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "estedad-medium";
+    src: 
+        url("../../../Font/Estedad/Estedad-Medium.eot?#iefix") format("eot") ,
+        url("../../../Font/Estedad/Estedad-Medium.eot") format("eot") ,
+        url("../../../Font/Estedad/Estedad-Medium.svg") format("svg") ,
+        url("../../../Font/Estedad/Estedad-Medium.ttf") format("ttf") ,
+        url("../../../Font/Estedad/Estedad-Medium.woff") format("woff") ,
+        url("../../../Font/Estedad/Estedad-Medium.woff2") format("woff2")
+    ;
+}

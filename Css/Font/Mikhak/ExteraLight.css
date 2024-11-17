@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "mikhak-extra-light";
+    src: 
+        url("../../../Font/Mikhak/Mikhak-ExtraLight.eot?#iefix") format("eot") ,
+        url("../../../Font/Mikhak/Mikhak-ExtraLight.eot") format("eot") ,
+        url("../../../Font/Mikhak/Mikhak-ExtraLight.svg") format("svg") ,
+        url("../../../Font/Mikhak/Mikhak-ExtraLight.ttf") format("ttf") ,
+        url("../../../Font/Mikhak/Mikhak-ExtraLight.woff") format("woff") ,
+        url("../../../Font/Mikhak/Mikhak-ExtraLight.woff2") format("woff2")
+    ;
+}

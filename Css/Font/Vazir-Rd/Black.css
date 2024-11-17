@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vazir-rd-black";
+    src: 
+        url("../../../Font/Vazir-Rd/VazirmatnRD-Black.eot?#iefix") format("eot") ,
+        url("../../../Font/Vazir-Rd/VazirmatnRD-Black.eot") format("eot") ,
+        url("../../../Font/Vazir-Rd/VazirmatnRD-Black.svg") format("svg") ,
+        url("../../../Font/Vazir-Rd/VazirmatnRD-Black.ttf") format("ttf") ,
+        url("../../../Font/Vazir-Rd/VazirmatnRD-Black.woff") format("woff") ,
+        url("../../../Font/Vazir-Rd/VazirmatnRD-Black.woff2") format("woff2")
+    ;
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "estedad-fd-thin";
+    src: 
+        url("../../../Font/Estedad-Fd/Estedad-FD-Thin.eot?#iefix") format("eot") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Thin.eot") format("eot") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Thin.svg") format("svg") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Thin.ttf") format("ttf") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Thin.woff") format("woff") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Thin.woff2") format("woff2")
+    ;
+}

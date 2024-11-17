@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "tanha";
+    src: 
+        url("../../Font/Tanha/Tanha.eot?#iefix") format("eot") ,
+        url("../../Font/Tanha/Tanha.eot") format("eot") ,
+        url("../../Font/Tanha/Tanha.ttf") format("ttf") ,
+        url("../../Font/Tanha/Tanha.woff") format("woff") ,
+        url("../../Font/Tanha/Tanha.woff2") format("woff2")
+    ;
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "mikhak-fd-semi-bold";
+    src: 
+        url("../../../Font/Mikhak-Fd/Mikhak-FD-SemiBold.eot?#iefix") format("eot") ,
+        url("../../../Font/Mikhak-Fd/Mikhak-FD-SemiBold.eot") format("eot") ,
+        url("../../../Font/Mikhak-Fd/Mikhak-FD-SemiBold.svg") format("svg") ,
+        url("../../../Font/Mikhak-Fd/Mikhak-FD-SemiBold.ttf") format("ttf") ,
+        url("../../../Font/Mikhak-Fd/Mikhak-FD-SemiBold.woff") format("woff") ,
+        url("../../../Font/Mikhak-Fd/Mikhak-FD-SemiBold.woff2") format("woff2")
+    ;
+}

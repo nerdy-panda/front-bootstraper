@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "estedad-fd-bold";
+    src: 
+        url("../../../Font/Estedad-Fd/Estedad-FD-Bold.eot?#iefix") format("eot") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Bold.eot") format("eot") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Bold.svg") format("svg") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Bold.ttf") format("ttf") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Bold.woff") format("woff") ,
+        url("../../../Font/Estedad-Fd/Estedad-FD-Bold.woff2") format("woff2")
+    ;
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vazir-wol-medium";
+    src: 
+        url("../../../Font/Vazir-Wol/Vazirmatn-NL-Medium.eot?#iefix") format("eot") ,
+        url("../../../Font/Vazir-Wol/Vazirmatn-NL-Medium.eot") format("eot") ,
+        url("../../../Font/Vazir-Wol/Vazirmatn-NL-Medium.svg") format("svg") ,
+        url("../../../Font/Vazir-Wol/Vazirmatn-NL-Medium.ttf") format("ttf") ,
+        url("../../../Font/Vazir-Wol/Vazirmatn-NL-Medium.woff") format("woff") ,
+        url("../../../Font/Vazir-Wol/Vazirmatn-NL-Medium.woff2") format("woff2")
+    ;
+}

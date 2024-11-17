@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "estedad-semi-bold";
+    src: 
+        url("../../../Font/Estedad/Estedad-SemiBold.eot?#iefix") format("eot") ,
+        url("../../../Font/Estedad/Estedad-SemiBold.eot") format("eot") ,
+        url("../../../Font/Estedad/Estedad-SemiBold.svg") format("svg") ,
+        url("../../../Font/Estedad/Estedad-SemiBold.ttf") format("ttf") ,
+        url("../../../Font/Estedad/Estedad-SemiBold.woff") format("woff") ,
+        url("../../../Font/Estedad/Estedad-SemiBold.woff2") format("woff2")
+    ;
+}
